@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+	header
+	{
+		text-align: center;
+		background-color: skyblue;
+		border: 1px solid;	
+	}
+	
+	nav{
+		border: 1px solid;
+		background-color: skyblue;
+		display: flex;
+		padding: 2rem	;
+	}
+	
+	a+a{
+		margin-left: 39rem;
+	}
+	
+	a{
+		border: 1px solid;
+	    background-color: orange;
+	    width: 10rem;
+	    text-align: center;
+	    font-size: 2rem;
+	    width: 19rem;
+	}
+	
+	main{
+		border: 1px solid;
+		display: flex;
+		padding: 3rem;
+		
+	}
+	
+	article{
+		border: 1px solid;
+		width:33%;
+		padding: 4rem;
+	}
+	
+	article+article{
+		margin-left: 2rem;	
+	}
+	
+	aside{
+		border: 1px solid;
+		width: 20%;
+		padding: 1rem;
+		width: 2rem;
+		height: 10rem;
+		margin-left: 3rem;
+		margin-right: 1rem;
+	}
+	
+	footer{
+		background-color: gray;
+		text-align: center;
+		font-size: 2rem;
+		border: 1px solid;
+	}
+	
+	.pie{
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+	
+	fieldset{
+		display: block;
+    	width: 2rem;
+    	padding	: 3rem;
+    	margin-bottom: 1rem;
+    	margin-left: 32rem;
+		
+	}
+	
+	input{
+	padding: 7px;	
+	}
+	
+	
+	.imagenNavidad{
+		width: 50%;
+	}
+	
+	.texto1{
+		float: left;
+    	width: 50%;
+    	padding-left: 2rem;
+	}
+	
+	
+	.menu3{
+		display: block;
+	}
+	
+	.section1{
+		display: flex;
+	}
+	
+	.section2{
+		display: flex;
+	}
+	
+	video{
+		width: 2rem;
+	}
+	
+	.menu2{
+		display: block;
+	}
+	
+	button{
+		padding: 1rem;
+		margin-left: 32rem;
+	}
+	
+	label{
+		margin-top: 2rem;
+		margin-bottom: 2rem;
+	}
